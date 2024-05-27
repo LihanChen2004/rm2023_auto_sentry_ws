@@ -1,4 +1,12 @@
-
-build
-devel
 src/CMakeLists.txt
+
+devel/
+build/
+install/
+log/
+
+.cache/
+__pycache__/
+.catkin_workspace
+*.gv
+*.pdf
