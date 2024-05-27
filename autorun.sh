@@ -1,4 +1,4 @@
-image_name=rm2023_auto_sentry
+image_name=lihanchen2004/rm2023_auto_sentry:latest
 instance_name=rm2023_auto_sentry
 
 check_docker_instance_already_running() {
